@@ -1,0 +1,2 @@
+read1 image.ppm
+write image2.ppm

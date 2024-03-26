@@ -1,2 +1,2 @@
-# C-Fractal-Images
-Creates fractal images using OPENGL
+# Fractal-Images Generator
+Creates julia set, mandelbrot set, and complex fractal images using OPENGL and written using C++.
